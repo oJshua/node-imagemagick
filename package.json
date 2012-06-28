@@ -1,5 +1,5 @@
 {
-  "name": "imagemagick",
+  "name": "imagemagick-composite",
   "description": "A wrapper around the imagemagick cli",
   "version": "0.1.2",
   "author": "Rasmus Andersson",
@@ -8,7 +8,7 @@
   }],
   "repository": {
     "type": "git",
-    "url": "http://github.com/rsms/node-imagemagick.git"
+    "url": "http://github.com/oJshua/node-imagemagick"
   },
   "engine": [ "node >=0.1.90" ],
   "main": "imagemagick"
